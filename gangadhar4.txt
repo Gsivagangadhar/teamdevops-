@@ -1,16 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Form</title>
+    <title>Image Example</title>
 </head>
 <body>
-    <h1>Contact Form</h1>
-    <form>
-        <label for="name">Your Name:</label><br>
-        <input type="text" id="name" name="name"><br><br>
-        
-        <input type="submit" value="Submit">
-    </form>
+    <h2>My Favorite Animal</h2>
+    <img src="https://via.placeholder.com/150" alt="Animal Image">
 </body>
 </html>
+
 
