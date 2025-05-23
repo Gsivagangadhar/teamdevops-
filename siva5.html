@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Form</title>
+    <title>Div Layout</title>
 </head>
 <body>
-    <h1>Contacts Form</h1>
-    <form>
-        <label for="name">Your Name:</label><br>
-        <input type="text" id="name" name="name"><br><br>
-        
-        <input type="submit" value="Submit">
-    </form>
+    <div style="background-color:lightgrey; padding:20px;">
+        <h1>Header</h1>
+    </div>
+    <div style="display:flex;">
+        <div style="width:30%; background-color:lightblue; padding:20px;">
+            Sidebar
+        </div>
+        <div style="width:70%; background-color:lightgreen; padding:20px;">
+            Main Content
+        </div>
+    </div>
 </body>
 </html>
