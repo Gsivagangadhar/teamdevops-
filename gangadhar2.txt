@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Form</title>
+    <title>Simple Table</title>
 </head>
 <body>
-    <h1>Contact Form</h1>
-    <form>
-        <label for="name">Your Name:</label><br>
-        <input type="text" id="name" name="name"><br><br>
-        
-        <input type="submit" value="Submit">
-    </form>
+    <h2>Student Marks</h2>
+    <table border="1">
+        <tr><th>Name</th><th>Math</th><th>Science</th></tr>
+        <tr><td>Alice</td><td>90</td><td>85</td></tr>
+        <tr><td>Bob</td><td>80</td><td>88</td></tr>
+    </table>
 </body>
 </html>
+
 
