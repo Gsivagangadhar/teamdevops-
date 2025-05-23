@@ -1,16 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Form</title>
+    <title>My First Page</title>
 </head>
 <body>
-    <h1>Contact Form</h1>
-    <form>
-        <label for="name">Your Name:</label><br>
-        <input type="text" id="name" name="name"><br><br>
-        
-        <input type="submit" value="Submit">
-    </form>
+    <h1>Hello, World!</h1>
+    <p>This is my first HTML page.</p>
 </body>
 </html>
+
 
