@@ -1,16 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Form</title>
+    <title>Link Example</title>
 </head>
 <body>
-    <h1>Contact Form</h1>
-    <form>
-        <label for="name">Your Name:</label><br>
-        <input type="text" id="name" name="name"><br><br>
-        
-        <input type="submit" value="Submit">
-    </form>
+    <h2>Visit Our Site</h2>
+    <a href="https://www.example.com" target="_blank">Click Here</a>
 </body>
 </html>
+
 
